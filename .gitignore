@@ -1,0 +1,5 @@
+*.pdf
+*.class
+.vscode/
+.idea/
+vscode/
